@@ -4,7 +4,7 @@
 
 置顶帖
 ----
-https://github.com/pyzh/song/issues
+https://github.com/pyzh/song/issues/1
 
 else
 ===
