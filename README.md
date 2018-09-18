@@ -11,6 +11,8 @@ Q/A
 问曰：如何关注这个论坛的讨论？
 对曰：可以watch，亦可订阅rss
 
+RSS：https://docs.rsshub.app/#github #OR http://t.cn/EvlSapR 
+
 
 else
 ===
