@@ -6,6 +6,13 @@
 ----
 https://github.com/pyzh/song/issues/1
 
+Q/A
+---
+问曰：如何关注这个论坛的讨论？
+对曰：可以watch，亦可订阅rss
+
+
 else
 ===
 微信群 > https://zhuanlan.zhihu.com/p/43193146
+
