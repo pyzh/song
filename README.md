@@ -17,6 +17,7 @@ RSS：https://docs.rsshub.app/#github #OR http://t.cn/EvlSapR
 
 else
 ===
-微信群 > https://zhuanlan.zhihu.com/p/43193146
-binding:1 = bbs.fe3o4.net
+
+- 微信群 > https://zhuanlan.zhihu.com/p/43193146
+- binding:1 = bbs.fe3o4.net
 
