@@ -1,6 +1,6 @@
 # #define
 - 论坛名 = 仿宋GBK
-- spawn from &lt;- https://github.com/pyzh/cdn
+- spawn from &lt;- https://github.com/pyzh/cdn / https://github.com/program-in-chinese/overview/issues/68
 
 置顶帖
 ----
